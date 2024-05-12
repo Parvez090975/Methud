@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/440.0.0.30.352;FBPN/com.facebook.orca;FBLC/en_AU;FBBV/554361140;FBCR/null;FBMF/samsung;FBBD/samsung;FBDV/SM-F936B;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=2.625,width=904,height=2103};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 10.0.0; SM-G570F Build/CX0VTI) [FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;[FBAN/FB4A;FBAV/488.0.0.26265;FBBV/654205655;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/Airtel;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.orca;FBDV/SM-G570F;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
